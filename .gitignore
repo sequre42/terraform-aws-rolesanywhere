@@ -1,0 +1,6 @@
+.terraform/*
+*.pem
+*.key
+cert/*
+.tfstate/*
+*.bac
